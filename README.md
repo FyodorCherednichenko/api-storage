@@ -26,8 +26,7 @@
 - возможность, при загрузке, указывать срок хранения файла, после которого он сам удаляется `+ 50 баллов`
 
 ## Ссылка на коллекцию Postman
-https://documenter.getpostman.com/view/11553101/VUxLy9mG#2ffcccdc-3b83-4816-9997-7f200ddbb94a
-<p align="left"><a href="" target="_blank"><img src="https://res.cloudinary.com/postman/image/upload/t_team_logo_pubdoc/v1/team/a1314e68bb0799b6e158a12b33ed352fb4f743f4159a566b60496af5c5bd0393" width="200" alt="Laravel Logo"></a></p>
+<p align="left"><a href="https://documenter.getpostman.com/view/11553101/VUxLy9mG#2ffcccdc-3b83-4816-9997-7f200ddbb94a" target="_blank"><img src="https://res.cloudinary.com/postman/image/upload/t_team_logo_pubdoc/v1/team/a1314e68bb0799b6e158a12b33ed352fb4f743f4159a566b60496af5c5bd0393" width="200" alt="Laravel Logo"></a></p>
 ## Laravel Sponsors
 
 ### Premium Partners
