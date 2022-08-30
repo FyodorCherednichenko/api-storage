@@ -17,4 +17,4 @@ npm-debug.log
 yarn-error.log
 /.idea
 /.vscode
-/storage/user_directories/
+/storage/user_directories/*
