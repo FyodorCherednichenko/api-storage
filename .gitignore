@@ -1,3 +1,6 @@
+api-storage
+api-storage.pub
+root@84.38.181.144/
 /node_modules
 /public/build
 /public/hot
@@ -14,3 +17,4 @@ npm-debug.log
 yarn-error.log
 /.idea
 /.vscode
+/storage/user_directories/
